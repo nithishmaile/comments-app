@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  min-height: 100vh;
+  padding: 60px;
+}
+.top-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.technologies-para {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-right: auto;
+}
+.comments-image {
+  height: 220px;
+  width: 340px;
+  margin-right: auto;
+}
+.input {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 8px;
+  outline: none;
+}
+.text-area {
+  outline: none;
+  padding: 8px;
+}
+.button {
+  background-color: #0284c7;
+  border-radius: 8px;
+  border-width: 0px;
+  color: white;
+  font-family: 'Roboto';
+  margin-top: 15px;
+  margin-bottom: 20px;
+  width: 120px;
+  height: 40px;
+}
+.span-element {
+  background-color: #0284c7;
+  color: white;
+  font-size: 12px;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 5px;
+}
